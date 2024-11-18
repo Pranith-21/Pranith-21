@@ -122,17 +122,15 @@ mindmap
 </div>
 <br/>
 <br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranith-21&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <br/>
+  <em>💫 Engineering Excellence Through Innovation 💫</em>
+</div>
 <br/>
 <br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=100&section=footer&animation=twinkling"/>
 </div>
 <br/>
-<br/>
-<br/>
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranith-21&style=for-the-badge&color=blue" alt="Profile Views"/>
-  <br/>
-  <em>💫 Engineering Excellence Through Innovation 💫</em>
-</div>
+
