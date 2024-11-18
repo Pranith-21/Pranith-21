@@ -28,8 +28,8 @@ mindmap
       📱 TypeScript
       🎨 Tailwind
     Backend Arsenal
-      ☕ Java & Spring
-      🐍 Python & Django
+      ☕ Java, Spring
+      🐍 Python, Django
       ⚡ Node.js
       🔄 REST APIs
     Cloud & DevOps
