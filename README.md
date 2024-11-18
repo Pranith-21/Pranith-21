@@ -1,91 +1,159 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A275E3&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+Tech+Universe!;🌟+Full+Stack+Engineer;🎯+Innovation+Driver;🔮+AI/ML+Explorer" alt="Typing SVG" />
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Sai Pranith Patibandla
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="500" height="150">
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2C8EBB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Innovation+Driver" alt="Typing SVG" />
+  <em>🎓 Master's in CS @ Georgia State University | 🏢 Full Stack Engineer | 🌟 Tech Innovator</em>
 </p>
 
-# 👨‍💻 Sai Pranith Patibandla
+> 🚀 Transforming ideas into reality through code. From revolutionizing SWIFT payment systems to crafting AI-powered solutions, I'm on a mission to make technology more impactful and accessible.
 
-<p align="center">
-  <em>🎓 Master's in CS @ Georgia State University | 🏢 Full Stack Engineer</em>
-</p>
+## 🎯 Tech Arsenal & Superpowers
 
-> From architecting SWIFT payment systems to crafting innovative ML solutions, I'm passionate about building technology that makes a difference. Currently based in Atlanta, bringing fintech experience from DBS Bank and a love for solving complex problems.
-
-## 🚀 What I Bring to the Table
-
-
-const pranith = {
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Angular"],
-            css: ["Bootstrap", "Material UI", "Tailwind"]
-        },
-        backEnd: {
-            java: ["Spring Boot", "Spring MVC", "Spring Batch"],
-            python: ["Django"],
-            js: ["Node.js"]
-        },
-        databases: ["MySQL", "MariaDB", "PostgreSQL"],
-        devOps: ["AWS", "Docker", "Jenkins", "CI/CD"],
-        tools: ["Git", "JIRA", "Confluence", "Postman"]
+```javascript
+const pranithTechUniverse = {
+    architect: ["Full Stack Development", "System Design", "Cloud Solutions"],
+    languages: {
+        expert: ["JavaScript", "TypeScript", "Python", "Java"],
+        proficient: ["C++", "C#", "Shell Scripting"],
     },
-    currentFocus: "Building scalable applications and exploring AI/ML",
-    funFact: "I automated SWIFT payments processing, reducing processing time by 50%! 🚀"
+    frontendMagic: {
+        frameworks: ["⚛️ React", "🅰️ Angular"],
+        styling: ["🎨 Tailwind", "🅱️ Bootstrap", "💅 Material UI"],
+        state: ["Redux", "Context API", "RxJS"]
+    },
+    backendPowers: {
+        java: ["🍃 Spring Boot", "🔄 Spring Batch", "🌐 Spring MVC"],
+        python: ["🦄 Django", "🤖 Machine Learning"],
+        js: ["⚡ Node.js", "🚀 Express"]
+    },
+    devOpsTools: ["☁️ AWS", "🐳 Docker", "👷 Jenkins", "🔄 CI/CD"],
+    databases: ["💾 MySQL", "📊 MariaDB", "🐘 PostgreSQL"],
+    currentQuest: "Building scalable systems & exploring AI frontiers 🔮"
 };
-
-
-## 🌟 Highlights
-
-- 🏦 **Fintech Pioneer**: Led automation initiatives at DBS Bank
-- 🎯 **Performance Optimizer**: Reduced system latency by 46%
-- 📚 **Published Researcher**: Scopus-indexed paper on Hand Gesture Recognition
-- 🏆 **Award Winner**: Multiple "Super Rookie" & "Super Techie" awards at DBS
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranith-21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-## 🛠️ Featured Projects
-
-### 🔍 Image Features Narrator
-- Computer Vision + NLP model for visual assistance
-- Tech: LSTM (RNN), Python, CV, Keras, PyTorch
-- 🏆 Most Innovative Project Award Winner
-
-### 👥 Person Tracking System
-- Deep Learning-based surveillance system
-- Tech: CNN, Python, Keras, TensorFlow
-- Recognition for unique approach and results
-
-## 💼 Professional Journey
-
-```mermaid
-graph LR
-    A[CSIR-IICT] -->|2020-2021| B[DBS Bank]
-    B -->|2021-2023| C[Georgia State University]
-    C -->|2023-Present| D[EdLight]
-    style D fill:#2C8EBB
 ```
 
-## 📫 Let's Connect!
+## 🌟 Achievement Milestones
 
-<p align="center">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/bank-building.png"/>
+        <br />
+        <b>Fintech Pioneer</b>
+        <br />
+        DBS Bank Innovator
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/speed.png"/>
+        <br />
+        <b>Performance Wizard</b>
+        <br />
+        46% System Optimization
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/research.png"/>
+        <br />
+        <b>Published Research</b>
+        <br />
+        Scopus Indexed
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/trophy.png"/>
+        <br />
+        <b>Award Winner</b>
+        <br />
+        Super Techie @ DBS
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📊 Innovation Metrics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranith-21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranith-21&theme=tokyonight"/>
+</div>
+
+## 🚀 Signature Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/eye-scan.png"/>
+        <br />
+        <b>🔍 Image Features Narrator</b>
+        <br />
+        AI-Powered Visual Assistance
+        <br />
+        <i>Python, CV, Keras, PyTorch</i>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/face-id.png"/>
+        <br />
+        <b>👥 Person Tracking System</b>
+        <br />
+        Deep Learning Surveillance
+        <br />
+        <i>CNN, TensorFlow, Computer Vision</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🎯 Professional Evolution
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/timeline.png"/>
+</div>
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6f42c1', 'textColor': '#fff' }}}%%
+timeline
+    title My Tech Journey
+    2020 : 🔬 CSIR-IICT
+         : Innovation Begins
+    2021 : 🏦 DBS Bank
+         : Fintech Revolution
+    2023 : 🎓 Georgia State
+         : Academic Excellence
+    2024 : 💡 EdLight
+         : Current Adventure
+```
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
   <a href="mailto:patibandlasaipranithedu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/saipranithpatibandla">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="https://github.com/Pranith-21">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranith-21&label=Profile%20views&color=2C8EBB&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <em>💡 Open to collaboration and innovative projects!</em>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranith-21&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views" />
+  <br />
+  <em>💫 Let's build something extraordinary together! 💫</em>
+</div>
