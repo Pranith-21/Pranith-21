@@ -3,13 +3,6 @@
 </div>
 
 <div align="center">
-  <h2 align="center" style="color: #22D3EE;">
-    <img src="https://img.icons8.com/color/48/bank-building.png" width="30" height="30" style="vertical-align: middle;"/> 
-    Former Technical Lead @ DBS Bank
-  </h2>
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=🚀+Full+Stack+Engineer+@+EdLight;🎓+M.S.+Computer+Science+@+Georgia+State;🏦+Former+Technical+Lead+@+DBS+Bank;📚+Published+Researcher+in+AI/ML;🌟+Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
