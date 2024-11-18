@@ -1,166 +1,89 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=180&section=header&text=Sai%20Pranith%20Patibandla&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20AI%20Enthusiast%20|%20Tech%20Innovator&descAlignY=55&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,15,20&height=200&section=header&text=Sai%20Pranith%20Patibandla&fontSize=45&fontAlignY=35&desc=Innovating%20at%20the%20Intersection%20of%20Technology%20and%20Impact&descSize=18&descAlignY=55&animation=twinkling"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=555&lines=Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Full+Stack+Engineer+%40+EdLight+%F0%9F%92%BB;Master's+in+CS+%40+Georgia+State+%F0%9F%8E%93;Former+DBS+Bank+Developer+%F0%9F%8F%A6;Published+Researcher+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=🚀+Full+Stack+Engineer+@+EdLight;🎓+M.S.+Computer+Science+@+Georgia+State;🏦+Former+Technical+Lead+@+DBS+Bank;📚+Published+Researcher+in+AI/ML;🌟+Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
-<h3 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" height="24">
-  Tech Stack & Superpowers  
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" height="24">
-</h3>
+<br/>
 
-<div align="center">
-  <details>
-    <summary><h3>🎯 Click to Explore My Tech Universe</h3></summary>
-    <br/>
-
-```javascript
-const pranithTechUniverse = {
-    architect: [
-        "🏗️ Full Stack Development", 
-        "🎯 System Design", 
-        "☁️ Cloud Solutions"
-    ],
-    languages: {
-        expert: [
-            "💻 JavaScript", 
-            "⚡ TypeScript", 
-            "🐍 Python", 
-            "☕ Java"
-        ],
-        proficient: [
-            "⚙️ C++", 
-            "🎯 C#", 
-            "🐚 Shell Scripting"
-        ]
-    },
-    frontendMagic: {
-        frameworks: [
-            "⚛️ React", 
-            "🅰️ Angular"
-        ],
-        styling: [
-            "🎨 Tailwind", 
-            "🅱️ Bootstrap", 
-            "💅 Material UI"
-        ],
-        state: [
-            "📊 Redux", 
-            "🔄 Context API", 
-            "⚡ RxJS"
-        ]
-    },
-    backendPowers: {
-        java: [
-            "🍃 Spring Boot", 
-            "🔄 Spring Batch", 
-            "🌐 Spring MVC"
-        ],
-        python: [
-            "🦄 Django", 
-            "🤖 Machine Learning"
-        ],
-        js: [
-            "⚡ Node.js", 
-            "🚀 Express"
-        ]
-    },
-    devOpsTools: [
-        "☁️ AWS", 
-        "🐳 Docker", 
-        "👷 Jenkins", 
-        "🔄 CI/CD"
-    ],
-    impact: {
-        dbs: "Reduced payment processing time by 50%",
-        edlight: "Improved student engagement by 35%",
-        research: "Published in Scopus-indexed journal"
-    }
-};
-```
-  </details>
-</div>
-
-<h3 align="center">🏆 Achievements & Impact</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img width="48" height="48" src="https://img.icons8.com/color/48/bank-building.png" alt="bank"/>
-        <br/><strong>DBS Super Rookie</strong>
-        <br/>Payment Systems Pioneer
-      </td>
-      <td align="center" width="25%">
-        <img width="48" height="48" src="https://img.icons8.com/color/48/student-male--v1.png" alt="student"/>
-        <br/><strong>Academic Excellence</strong>
-        <br/>3.93/4.0 GPA
-      </td>
-      <td align="center" width="25%">
-        <img width="48" height="48" src="https://img.icons8.com/color/48/research--v1.png" alt="research"/>
-        <br/><strong>Published Research</strong>
-        <br/>Hand Gesture Recognition
-      </td>
-      <td align="center" width="25%">
-        <img width="48" height="48" src="https://img.icons8.com/color/48/project-management.png" alt="project"/>
-        <br/><strong>Tech Innovation</strong>
-        <br/>35% Performance Boost
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
-  <a href="https://github.com/Pranith-21">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranith-21&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranith-21&layout=compact&theme=tokyonight"/>
+  <a href="https://www.linkedin.com/in/saipranithpatibandla">
+    <img src="https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:patibandlasaipranithedu@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="your-portfolio-url">
+    <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
-<h3 align="center">🚀 Featured Projects</h3>
 <div align="center">
-  <a href="https://github.com/Pranith-21/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranith-21&repo=darknet&theme=tokyonight" />
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
+    Technology Arsenal
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
+  </h2>
+</div>
+
+<details>
+  <summary><h3>🎯 Click to Explore My Tech Stack</h3></summary>
+  
+  <div align="center">
+    <h4>Frontend Ecosystem 🌐</h4>
+    <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,redux" />
+    <h4>Backend & Systems 🔧</h4>
+    <img src="https://skillicons.dev/icons?i=java,python,spring,django,nodejs,express" />
+    <h4>DevOps & Cloud ☁️</h4>
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git" />
+    <h4>Database Technologies 💾</h4>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+  </div>
+</details>
+
+<h2 align="center">🏆 Professional Milestones</h2>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <div>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/financial-growth.png" alt="DBS Impact"/>
+    <h4>DBS Bank Impact</h4>
+    <p>Reduced payment processing time by 50%</p>
+  </div>
+  <div>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/graduation-cap.png" alt="Academic Excellence"/>
+    <h4>Academic Excellence</h4>
+    <p>3.93/4.0 GPA at Georgia State</p>
+  </div>
+</div>
+
+<h2 align="center">📊 Performance Analytics</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pranith-21&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&ring_color=6AD3F7"/>
+  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Pranith-21&count_private=true&theme=transparent&hide_border=true&ring_color=6AD3F7&fire_color=6AD3F7&currStreakLabel=6AD3F7&sideLabels=ffffff"/>
+</div>
+
+<h2 align="center">🔥 Featured Projects</h2>
+
+<div align="center">
+  <a href="your-project-link">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranith-21&repo=darknet&theme=transparent&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff"/>
   </a>
-  <a href="https://github.com/Pranith-21/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranith-21&repo=Data-Structures&theme=tokyonight" />
+  <a href="your-project-link">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranith-21&repo=Data-Structures&theme=transparent&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff"/>
   </a>
 </div>
 
-<h3 align="center">🌟 Current Tech Focus</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,python,aws,docker,kubernetes,tensorflow" />
-</div>
-
-<h3 align="center">🤝 Connect With Me</h3>
-<div align="center">
-  <a href="mailto:patibandlasaipranithedu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/saipranithpatibandla">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Pranith-21">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>📈 Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranith-21&theme=react-dark&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,15,20&height=100&section=footer&animation=twinkling"/>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranith-21&style=for-the-badge&color=blue" alt="Profile Views"/>
   <br/>
-  <em>💫 Always learning, always building! Open to collaborating on innovative projects 💫</em>
+  <em>💫 Engineering Excellence Through Innovation 💫</em>
 </div>
