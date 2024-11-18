@@ -32,7 +32,7 @@ mindmap
       🐍 Python, Django
       ⚡ Node.js
       🔄 REST APIs
-    Cloud and DevOps
+    Cloud, DevOps
       ☁️ AWS
       🐳 Docker
       🔄 CI/CD
